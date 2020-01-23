@@ -1,2 +1,3 @@
 # wordpress-course-2
-Learning how to code with wordpress
+Following along with the Udemy course "Become a WordPress Developer- Unlocking Power with Code"
+Instructor: Brad Schiff
